@@ -1,0 +1,8 @@
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\bin\Debug\IteratorAndCompositePattern.exe.config
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\bin\Debug\IteratorAndCompositePattern.exe
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\bin\Debug\IteratorAndCompositePattern.pdb
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\obj\Debug\IteratorAndCompositePattern.csproj.AssemblyReference.cache
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\obj\Debug\IteratorAndCompositePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\obj\Debug\IteratorAndCompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\obj\Debug\IteratorAndCompositePattern.exe
+C:\Users\prasa\Documents\Design Patterns\IteratorAndCompositePattern\IteratorAndCompositePattern\obj\Debug\IteratorAndCompositePattern.pdb

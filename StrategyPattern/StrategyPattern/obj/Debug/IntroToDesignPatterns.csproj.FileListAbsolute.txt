@@ -1,0 +1,8 @@
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\bin\Debug\IntroToDesignPatterns.exe.config
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\bin\Debug\IntroToDesignPatterns.exe
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\bin\Debug\IntroToDesignPatterns.pdb
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\obj\Debug\IntroToDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\obj\Debug\IntroToDesignPatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\obj\Debug\IntroToDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\obj\Debug\IntroToDesignPatterns.exe
+C:\Users\prasa\source\repos\IntroToDesignPatterns\IntroToDesignPatterns\obj\Debug\IntroToDesignPatterns.pdb
