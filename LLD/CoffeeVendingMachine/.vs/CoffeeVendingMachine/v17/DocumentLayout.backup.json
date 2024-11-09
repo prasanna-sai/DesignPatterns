@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\CoffeeVendingMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AEF4F0-A085-49E1-B10F-A0240AEECB77}|CoffeeVendingMachine\\CoffeeVendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\coffeevendingmachine\\coffeevendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AEF4F0-A085-49E1-B10F-A0240AEECB77}|CoffeeVendingMachine\\CoffeeVendingMachine.csproj|solutionrelative:coffeevendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\CoffeeVendingMachine\\CoffeeVendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeVendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\CoffeeVendingMachine\\CoffeeVendingMachine\\Program.cs",
+              "RelativeToolTip": "CoffeeVendingMachine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:39:04.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

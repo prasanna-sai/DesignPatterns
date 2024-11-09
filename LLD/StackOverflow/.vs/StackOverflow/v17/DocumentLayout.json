@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\stackoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\stackoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\ivotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\ivotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\icommentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\icommentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\stackoverflow\\stackoverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D52A23-9831-460E-90E2-30AD902F3187}|StackOverflow\\StackOverflow.csproj|solutionrelative:stackoverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackOverflow.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\StackOverflow.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\StackOverflow.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\StackOverflow.cs",
+              "RelativeToolTip": "StackOverflow\\StackOverflow.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:46:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Tag.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\Tag.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Tag.cs",
+              "RelativeToolTip": "StackOverflow\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:52:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Vote.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\Vote.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Vote.cs",
+              "RelativeToolTip": "StackOverflow\\Vote.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:51:00.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Answer.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\Answer.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Answer.cs",
+              "RelativeToolTip": "StackOverflow\\Answer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA0wEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:50:40.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Comment.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\Comment.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Comment.cs",
+              "RelativeToolTip": "StackOverflow\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:50:25.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Question.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\Question.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Question.cs",
+              "RelativeToolTip": "StackOverflow\\Question.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:49:55.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICommentable.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\ICommentable.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\ICommentable.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\ICommentable.cs",
+              "RelativeToolTip": "StackOverflow\\ICommentable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:49:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVotable.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\IVotable.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\IVotable.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\IVotable.cs",
+              "RelativeToolTip": "StackOverflow\\IVotable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:49:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\User.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\User.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\User.cs",
+              "RelativeToolTip": "StackOverflow\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:46:23.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "StackOverflow\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\StackOverflow\\StackOverflow\\Program.cs",
+              "RelativeToolTip": "StackOverflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:22:40.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

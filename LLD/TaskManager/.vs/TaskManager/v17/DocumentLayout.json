@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\taskmanager\\taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\taskmanager\\taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\taskmanager\\taskmanager\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\taskmanager\\taskmanager\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFAE845-30C7-430C-B570-D7C5D6147491}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\TaskManager.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\TaskManager.cs",
+              "RelativeToolTip": "TaskManager\\TaskManager.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwGcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:30:17.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Task.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\Task.cs",
+              "RelativeToolTip": "TaskManager\\Task.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:29:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskManager\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\TaskStatus.cs",
+              "RelativeToolTip": "TaskManager\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:29:35.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\User.cs",
+              "RelativeDocumentMoniker": "TaskManager\\User.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\User.cs",
+              "RelativeToolTip": "TaskManager\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:29:15.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:28:18.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

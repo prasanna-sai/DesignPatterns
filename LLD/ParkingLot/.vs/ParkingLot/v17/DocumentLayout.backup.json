@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\parkinglot\\consoleapp1\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AC76FA-BDBE-462D-BF93-FA4AB6218F34}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkingLot.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\ParkingLot.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ParkingLot.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\ParkingLot.cs",
+              "RelativeToolTip": "ConsoleApp1\\ParkingLot.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:08:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Level.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Level.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Level.cs",
+              "RelativeToolTip": "ConsoleApp1\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:09:25.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParkingSpot.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\ParkingSpot.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ParkingSpot.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\ParkingSpot.cs",
+              "RelativeToolTip": "ConsoleApp1\\ParkingSpot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:57:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Truck.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Truck.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Truck.cs",
+              "RelativeToolTip": "ConsoleApp1\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:55:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Bike.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Bike.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Bike.cs",
+              "RelativeToolTip": "ConsoleApp1\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:54:43.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:52:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:48:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\VehicleType.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\VehicleType.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\VehicleType.cs",
+              "RelativeToolTip": "ConsoleApp1\\VehicleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:47:17.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\ParkingLot\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:37:18.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

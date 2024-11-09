@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\returnchangestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\returnchangestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\dispensestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\dispensestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\readystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\readystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\vendingmachine\\vendingmachine\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BE8A73-9840-4AFC-ADD5-60FF90D69D4A}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\Inventory.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\Inventory.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\Inventory.cs",
+              "RelativeToolTip": "VendingMachine\\Inventory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:53:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnChangeState.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\ReturnChangeState.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\ReturnChangeState.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\ReturnChangeState.cs",
+              "RelativeToolTip": "VendingMachine\\ReturnChangeState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:45:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DispenseState.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\DispenseState.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\DispenseState.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\DispenseState.cs",
+              "RelativeToolTip": "VendingMachine\\DispenseState.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:44:30.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadyState.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\ReadyState.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\ReadyState.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\ReadyState.cs",
+              "RelativeToolTip": "VendingMachine\\ReadyState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:41:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\IdleState.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\IdleState.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\IdleState.cs",
+              "RelativeToolTip": "VendingMachine\\IdleState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:40:48.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\VendingMachine.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\VendingMachine.cs",
+              "RelativeToolTip": "VendingMachine\\VendingMachine.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADgvxIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T07:39:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IState.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\IState.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\IState.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\VendingMachine\\VendingMachine\\IState.cs",
+              "RelativeToolTip": "VendingMachine\\IState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:52:41.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C067846-B65C-47C5-9173-27D4272A5C66}|StrategyPattern\\StrategyPattern.csproj|c:\\users\\prasa\\documents\\designpatterns\\strategypattern\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C067846-B65C-47C5-9173-27D4272A5C66}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C067846-B65C-47C5-9173-27D4272A5C66}|StrategyPattern\\StrategyPattern.csproj|C:\\Users\\prasa\\Documents\\DesignPatterns\\StrategyPattern\\strategypattern\\ducks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C067846-B65C-47C5-9173-27D4272A5C66}|StrategyPattern\\StrategyPattern.csproj|solutionrelative:strategypattern\\ducks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "StrategyPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:35:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ducks.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Ducks.cs",
+              "RelativeDocumentMoniker": "StrategyPattern\\Ducks.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Ducks.cs",
+              "RelativeToolTip": "StrategyPattern\\Ducks.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:35:05.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

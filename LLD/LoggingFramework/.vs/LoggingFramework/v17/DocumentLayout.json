@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\LoggingFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9FF9D-9E48-45D7-B29C-7C2836A05D36}|LoggingFramework\\LoggingFramework.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\loggingframework\\loggingframework\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9FF9D-9E48-45D7-B29C-7C2836A05D36}|LoggingFramework\\LoggingFramework.csproj|solutionrelative:loggingframework\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D9FF9D-9E48-45D7-B29C-7C2836A05D36}|LoggingFramework\\LoggingFramework.csproj|c:\\users\\prasa\\documents\\designpatterns\\lld\\loggingframework\\loggingframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D9FF9D-9E48-45D7-B29C-7C2836A05D36}|LoggingFramework\\LoggingFramework.csproj|solutionrelative:loggingframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\LoggingFramework\\LoggingFramework\\Logger.cs",
+              "RelativeDocumentMoniker": "LoggingFramework\\Logger.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\LoggingFramework\\LoggingFramework\\Logger.cs",
+              "RelativeToolTip": "LoggingFramework\\Logger.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:37:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\LoggingFramework\\LoggingFramework\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\prasa\\Documents\\DesignPatterns\\LLD\\LoggingFramework\\LoggingFramework\\Program.cs",
+              "RelativeToolTip": "LoggingFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T11:55:19.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
